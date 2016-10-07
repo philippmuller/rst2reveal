@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rst2reveal
+Version: 0.0.2
+Summary: ReST to Reveal.js translator.
+Home-page: https://bitbucket.org/vitay/rst2reveal
+Author: Julien Vitay
+Author-email: julien.vitay@gmail.com
+License: MIT
+Description: ReST to Reveal.js translator.
+Platform: GNU/Linux
